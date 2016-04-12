@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 論語集解義疏
-#+DATE: 2016-04-12 13:59:09.256924
+#+DATE: 2016-04-12 13:59:09.697978
 #+PROPERTY: ID KR1h0006
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR1h0006_WYG_000-1a>¶
 　　欽定四庫全書　　　　　經部八¶
@@ -31,7 +31,7 @@
 其佚在南宋時矣惟唐時舊本流傳存於海¶
 外康熈九年日本國山井鼎等作七經孟子¶
 考文自稱其國有是書然中國無得其本者¶
-故朱&KR0156;尊經義考註曰未見今恭逢我¶
+故朱彝尊經義考註曰未見今恭逢我¶
 ¶
 　　皇上右文稽古經籍道昌乃發其光於鯨波鮫室¶
 之中藉汎舶而登秘閣殆若有神物撝訶存¶
